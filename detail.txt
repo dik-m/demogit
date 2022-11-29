@@ -1,0 +1,6 @@
+font-family: 'Alfa Slab One', cursive;
+font-family: 'Bebas Neue', cursive;
+
+
+1440
+1280
